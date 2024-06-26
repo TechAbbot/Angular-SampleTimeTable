@@ -1,4 +1,4 @@
-#![image_2024_06_26T10_22_25_512Z](https://github.com/Rushit009/SampleTimeTable/assets/73434730/ca191b45-7391-4f18-9198-7f37104698d5)
+![image_2024_06_26T10_22_25_512Z](https://github.com/Rushit009/SampleTimeTable/assets/73434730/ca191b45-7391-4f18-9198-7f37104698d5)
 # installing Packages
 Run `npm install` for a install Package.
 ## Development server
